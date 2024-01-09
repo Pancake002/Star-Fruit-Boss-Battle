@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dby8n462uyyjc"
+path="res://.godot/imported/03. Infestation.mp3-07bb701ec158e3d23a9e990dfa36c8b2.mp3str"
+
+[deps]
+
+source_file="res://sounds/03. Infestation.mp3"
+dest_files=["res://.godot/imported/03. Infestation.mp3-07bb701ec158e3d23a9e990dfa36c8b2.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=152.0
+beat_count=0
+bar_beats=4

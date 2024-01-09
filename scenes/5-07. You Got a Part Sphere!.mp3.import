@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dwimrc4w4wl12"
+path="res://.godot/imported/5-07. You Got a Part Sphere!.mp3-5864a015467d1571b132b04e5f413915.mp3str"
+
+[deps]
+
+source_file="res://scenes/5-07. You Got a Part Sphere!.mp3"
+dest_files=["res://.godot/imported/5-07. You Got a Part Sphere!.mp3-5864a015467d1571b132b04e5f413915.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

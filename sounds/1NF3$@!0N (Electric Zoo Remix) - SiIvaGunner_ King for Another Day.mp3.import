@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlk043rxw41q5"
+path="res://.godot/imported/1NF3$@!0N (Electric Zoo Remix) - SiIvaGunner_ King for Another Day.mp3-c7ddab0f2461b13a8600980af07df183.mp3str"
+
+[deps]
+
+source_file="res://sounds/1NF3$@!0N (Electric Zoo Remix) - SiIvaGunner_ King for Another Day.mp3"
+dest_files=["res://.godot/imported/1NF3$@!0N (Electric Zoo Remix) - SiIvaGunner_ King for Another Day.mp3-c7ddab0f2461b13a8600980af07df183.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
